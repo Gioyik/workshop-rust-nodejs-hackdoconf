@@ -1,0 +1,11 @@
+{
+  "name": "rust-node-ffi",
+  "version": "0.1.0",
+  "description": "Demo for HackdoConf",
+  "main": "src/main.js",
+  "author": "HackdoConf <john@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ffi": "^2.2.0",
+  }
+}

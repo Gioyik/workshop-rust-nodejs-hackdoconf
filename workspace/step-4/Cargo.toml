@@ -1,0 +1,9 @@
+[package]
+name = "node-rust-calculator"
+version = "0.1.0"
+authors = ["HackdoConf <john@example.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]

@@ -1,0 +1,12 @@
+{
+  "name": "node-rust-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node/index.js"
+  },
+  "dependencies": {
+    "ffi": "^2.2.0"
+  }
+}

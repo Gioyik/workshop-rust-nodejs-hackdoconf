@@ -1,0 +1,8 @@
+[package]
+name = "rust-node-ffi"
+version = "0.1.0"
+authors = ["HackdoConf <john@example.comm>"]
+
+[lib]
+name = "by_two"
+crate-type = ["dylib"]
